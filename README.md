@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Dabade</h1>
 
 <h3 align="center">
-Computer Engineering Student | Developer | AI & ML Enthusiast
+Information Technology Student | Developer | AI & ML Enthusiast |  Problem Solver
 </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@ Computer Engineering Student | Developer | AI & ML Enthusiast
 * 💡 Interested in building practical solutions using technology.
 * 🤝 Open to collaborating on **AI, Web Development, Open Source, and innovative projects**.
 * 🛰️ Currently working on **SatQuery AI**, an interactive AI assistant for multimodal remote sensing image analysis.
-* 💬 Ask me about **Python, Java, Web Development, AI/ML, Git, and GitHub**.
+* 💬 Ask me about **SQL, Firebase, Web Development, DSA, Git, and GitHub**.
 * ⚡ Fun fact: I enjoy turning ideas into working projects.
 
 ---
@@ -36,39 +36,88 @@ The goal is to make satellite imagery analysis more accessible by allowing users
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  </a>
 
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  </a>
-
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
-  </a>
-
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  </a>
-
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-  </a>
-
+  <!-- SQL -->
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="SQL"
+      width="45"
+      height="45"
+    />
   </a>
-</p>
 
+  <!-- Firebase -->
+  <a href="https://firebase.google.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="Firebase"
+      width="45"
+      height="45"
+    />
+  </a>
+
+  <!-- HTML -->
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="HTML"
+      width="45"
+      height="45"
+    />
+  </a>
+
+  <!-- CSS -->
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="CSS"
+      width="45"
+      height="45"
+    />
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="JavaScript"
+      width="45"
+      height="45"
+    />
+  </a>
+
+  <!-- DSA -->
+  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="Data Structures and Algorithms"
+      width="45"
+      height="45"
+    />
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+      alt="Git"
+      width="45"
+      height="45"
+    />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+      alt="GitHub"
+      width="45"
+      height="45"
+    />
+  </a>
+
+</p>
 ---
 
 ## 📊 GitHub Statistics
