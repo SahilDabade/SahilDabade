@@ -12,7 +12,7 @@ Information Technology Student | Developer | AI & ML Enthusiast |  Problem Solve
 
 ## 🚀 About Me
 
-* 🎓 I'm a Computer Engineering student passionate about technology and software development.
+* 🎓 I'm a Information Technology student passionate about technology and software development.
 * 🔭 Currently working on **AI-powered and web-based projects**.
 * 🌱 Currently learning **Artificial Intelligence, Machine Learning, Web Development, and Data Structures & Algorithms**.
 * 💡 Interested in building practical solutions using technology.
