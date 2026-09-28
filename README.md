@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Dabade!</h1>
 
 <h3 align="center">
-Information Technology Student | Developer | AI & ML Enthusiast |  Problem Solver
+Information Technology Student | Developer | Problem Solver
 </h3>
 
 <p align="center">
